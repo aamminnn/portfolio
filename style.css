@@ -4,9 +4,9 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
+/* body { */
   /*background-color: grey !important;*/
-}
+/* } */
 
 .nav-bar{
 	/*min-height: 100vh;*/
@@ -296,7 +296,7 @@ nav .fa{
 
 	/*-------CONTACT--------*/
 
-	.experience{}
+	/* .experience{} */
 
 
 	/*-------CONTACT--------*/
